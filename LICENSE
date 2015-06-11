@@ -1,0 +1,32 @@
+License agreement
+(c) Jan Wessel 2015
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SD1 >> Stopping-induced devaluation experiment for Psychtoolbox 3.0.6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Jan R. Wessel, October 2011
+%   Email:  jan.r.wessel@gmail.com
+%   Web:    www.wessellab.org
+%
+%   Programmed on MATLAB 2012a, Psychtoolbox 3.0.6
+%       Newer MATLAB should be supported, but check RNG reset command
+%       [SD1initialize.m line 4]
+%   I have explicitly tested this code under:
+%       MAC OS X Mountain Lion running Matlab 2012a
+%       Ubuntu 14.04. LTS running Matlab 2014b
+%
+%   When using this code, please cite the following two papers:
+%       1. Wessel JR, O'Doherty JP, Berkebile M, Linderman D, Aron AR (2014).
+%           Stimulus devaluation caused by stopping action.
+%           Journal of Experimental Psychology: General 143(6):2316-29 
+%       2. Wessel JR, Tonnesen A, Aron AR (in prep).
+%           Stimulus devaluation induced by action stopping is greater for explicit value representations
+%   #1 introduces the experiment, #2 shares the code.
+%
+%   Feel free to modify this code, but please only share the original routines.
+%
+%   Version History:
+%       6/2015: Release version 1.0
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
