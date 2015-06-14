@@ -16,7 +16,8 @@ License agreement
 %       MAC OS X Mountain Lion running Matlab 2012a
 %       Ubuntu 14.04. LTS running Matlab 2014b
 %
-%   When using this code, please cite the following two papers:
+%   When using this code (including your own alterations),
+%   please cite the following two papers:
 %       1. Wessel JR, O'Doherty JP, Berkebile M, Linderman D, Aron AR (2014).
 %           Stimulus devaluation caused by stopping action.
 %           Journal of Experimental Psychology: General 143(6):2316-29 
